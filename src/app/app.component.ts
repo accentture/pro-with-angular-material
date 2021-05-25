@@ -8,3 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'youtube';
 }
+
+
+//command to run angular project : npm run nghm -- serve
